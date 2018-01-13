@@ -542,10 +542,17 @@ img {
     color: #FFF;
     border: #539513 solid 1px;
 }
-.Nrow {
+.NavN .Nrow {
     background: #539513;
     color: #FFF!important;
     border: #539513 solid 1px!important;
+}
+.NavN .on{
+background: #539513;
+color: #FFF!important;
+}
+.NavN .on a{
+    color: #FFF!important;
 }
 .neibiao {
     padding-left: 40px;
@@ -834,4 +841,15 @@ img {
 .yuanG li img {
     width: 310px;
     height: 210px;
+}
+
+.title-47{
+    font-size: 16px;
+    color: rgb(51, 51, 51); font-family: PingFang SC, Lantinghei SC, Microsoft YaHei, arial, 宋体, sans-serif, tahoma;  background-color: rgb(255, 255, 255);
+    padding-bottom: 10px;
+}
+.info-47{
+    font-size: 14px;
+    color: rgb(51, 51, 51); font-family: PingFang SC, Lantinghei SC, Microsoft YaHei, arial, 宋体, sans-serif, tahoma;  background-color: rgb(255, 255, 255);
+    padding-bottom: 10px;
 }
